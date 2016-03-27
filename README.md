@@ -1,2 +1,5 @@
+![jetNEXUS Logo](/jetnexus.jpg)
+
 # Healthchecks
-Application Health checks
+
+Server and application Health Checks monitors. 

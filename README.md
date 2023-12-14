@@ -1,4 +1,4 @@
-![jetNEXUS Logo](/jetnexus.jpg)
+![Edgenexus Logo](/edgenexus_logo_small.png)
 
 # Healthchecks
 

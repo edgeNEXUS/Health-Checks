@@ -1,7 +1,7 @@
 #NOT IN USE: RedisVS
 
 ########################################################################################################
-# jetNEXUS custom health checking Copyright jetNEXUS 2015
+# Edgenexus custom health checking Copyright jetNEXUS 2015
 ########################################################################################################
 
 # _[0] IP address of the server to be health checked
